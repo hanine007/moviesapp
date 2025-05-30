@@ -19,7 +19,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    searchMovies("avengers");
+    searchMovies("The avengers");
   }, []);
 
   return (
