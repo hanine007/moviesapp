@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/React-Frontend-blue)
+
+![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-lightgrey)
+
 # 🎬 Movie Search Application
 
 This React application enables users to search for movies using the [OMDb API](http://www.omdbapi.com/). It provides a clean interface to query movie titles and view relevant information such as posters, release year, and type.
